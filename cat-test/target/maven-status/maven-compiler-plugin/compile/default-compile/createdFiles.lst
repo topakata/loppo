@@ -1,0 +1,5 @@
+repository\Repository.class
+servlets\CatsServlet.class
+xml\XMLWorker.class
+models\Cat.class
+servlets\RegistrationServlet.class

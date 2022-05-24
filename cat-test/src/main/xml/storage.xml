@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cats>
+    <cat>
+        <id>2</id>
+        <personName>4</personName>
+        <catName>2</catName>
+        <breed>3 </breed>
+        <description>55</description>
+    </cat>
+    <cat>
+        <id>4</id>
+        <personName>6</personName>
+        <catName>6</catName>
+        <breed>6</breed>
+        <description>6</description>
+    </cat>
+    <cat>
+        <id>1</id>
+        <personName>3</personName>
+        <catName>3</catName>
+        <breed>3</breed>
+        <description>3</description>
+    </cat>
+    <cat>
+        <id>5</id>
+        <personName>5</personName>
+        <catName>5</catName>
+        <breed>5</breed>
+        <description>5</description>
+    </cat>
+    <cat>
+        <id>6</id>
+        <personName>4</personName>
+        <catName>4</catName>
+        <breed>4</breed>
+        <description>4</description>
+    </cat>
+    <cat>
+        <id>3</id>
+        <personName>ч</personName>
+        <catName>ч</catName>
+        <breed>ч</breed>
+        <description>котката е грозна</description>
+    </cat>
+</cats>
